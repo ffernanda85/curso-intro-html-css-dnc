@@ -1,0 +1,69 @@
+#header {
+    background-color:rgb(226, 200, 165);
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-family: 'Hubballi', cursive;
+}
+
+h1, h2, h3 {
+/* text-transform: altera o text para up ou lowerCase */
+    text-transform: uppercase;
+}
+
+#nameAndTitle {
+    background-color: #fff;
+    width: 35%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#nameAndTitle h1, h2 {
+/* Chamando o id e selecionando as tags conseguimos alterar só as tags em questão (nesse caso o h1 e h2)*/
+    margin: 0;
+}
+
+#contact {
+/* retirando as bolinhas da frente dos itens da lista */
+    list-style-type: none;
+}
+
+#contact i {
+    margin-right: 1em;
+    color: rgb(226, 200, 165);
+}
+
+#container {
+    display: grid;
+    grid-template-columns: 30% auto;/* def.quais vão ser as proporções das colunas do grid - 1ª column 30% da tela e 2ª column 70% da tela */
+    grid-column-gap: 2em /* def. o espaçamento entre as colunas do grid */
+}
+
+#sidebar, #content {/*engloba os id sidebar e content */
+    display: flex; /*possibilita os ajustes das divs dentro do grid */
+    flex-direction: column; /* def.a direção vertical(column) ou horizontal(row) */
+    row-gap: 20px;/* def espaços entre cada linha de cada coluna */
+}
+
+.card h3 {
+    font-family: 'Hubballi', cursive;   
+}
+
+.card {
+    font-family: Montserrat;
+    border: 1px solid gray;
+    border-radius: 15px;
+    padding-left: 2em;
+    /* margin: .6em; */
+}
+
+.marginBlock {
+    width: 50vw;
+    border: 2px dashed black;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.marginBlock h1 {
+    color: red;
+}
+
