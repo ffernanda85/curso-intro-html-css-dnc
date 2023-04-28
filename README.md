@@ -13,3 +13,7 @@ Teremos aqui uma série que pequenos projetos simples e diretos aplicando os con
 * Um modelo de Portfólio
 * Um modelo de Curriculum
 * Um form com os inputs mais comuns 
+
+# Links Deploy
+
+* Template Portfolio: https://admirable-sfogliatella-edc3d1.netlify.app/
