@@ -14,6 +14,7 @@ Teremos aqui uma série que pequenos projetos simples e diretos aplicando os con
 * Um modelo de Curriculum
 * Um form com os inputs mais comuns 
 
-# Links Deploy
+# Links Deploy e Certificado
 
 * Template Portfolio: https://admirable-sfogliatella-edc3d1.netlify.app/
+* Certificado: https://api.dinamicatreinamentos.com/public/acervo/132-6b9d7bac6980cec9dad6d215f775169d.pdf
