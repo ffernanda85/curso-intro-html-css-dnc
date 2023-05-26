@@ -17,4 +17,5 @@ Teremos aqui uma série que pequenos projetos simples e diretos aplicando os con
 # Links Deploy e Certificado
 
 * Template Portfolio: https://admirable-sfogliatella-edc3d1.netlify.app/
+* Template Curriculo: https://647105e5a9d0611be6b1c274--unrivaled-mermaid-1321c6.netlify.app/
 * Certificado: https://api.dinamicatreinamentos.com/public/acervo/132-6b9d7bac6980cec9dad6d215f775169d.pdf
